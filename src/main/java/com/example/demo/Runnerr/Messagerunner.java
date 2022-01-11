@@ -9,6 +9,7 @@ public class Messagerunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		System.out.println("WELCOME TO SPRING BOOT APP");
+		System.out.println("Hello Modified");
 
 	}
 
