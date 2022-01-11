@@ -10,6 +10,8 @@ public class Messagerunner implements CommandLineRunner {
 		// TODO Auto-generated method stub
 		System.out.println("WELCOME TO SPRING BOOT APP");
 		System.out.println("Hello Modified");
+		int a=10;
+		int b=20;
 
 	}
 
